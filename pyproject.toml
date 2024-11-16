@@ -61,6 +61,7 @@ urls.download = "https://github.com/whiteprints-tests/test-pypi-darwin-py313-tes
 urls.homepage = "https://github.com/whiteprints-tests/test-pypi-darwin-py313-test"
 urls.integration = "https://github.com/whiteprints-tests/test-pypi-darwin-py313-test/actions"
 urls.issues = "https://github.com/whiteprints-tests/test-pypi-darwin-py313-test/issues"
+urls.pypi = "https://pypi.org/project/test-pypi-darwin-py313-test"
 urls.repository = "https://github.com/whiteprints-tests/test-pypi-darwin-py313-test"
 scripts.test-pypi-darwin-py313-test = "test_pypi_darwin_py313_test.cli.entrypoint:test_pypi_darwin_py313_test"
 
